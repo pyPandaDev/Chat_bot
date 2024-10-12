@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "666237418426",
+    "firebase_url": "https://chatbot-d7259-default-rtdb.firebaseio.com",
+    "project_id": "chatbot-d7259",
+    "storage_bucket": "chatbot-d7259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666237418426:android:0c6fc4b0ca8ecb43bffb83",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42XW9KCt6NrD0jYyz_HjS806j2uMS9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666237418426:android:416378e897309768bffb83",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42XW9KCt6NrD0jYyz_HjS806j2uMS9GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
